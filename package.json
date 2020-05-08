@@ -15,6 +15,7 @@
 		"Other"
 	],
 	"keywords": ["server","api","rest","json","http"],
+	"icon": "img/logo.png",
 	"activationEvents": [
 		"onCommand:rest-api-server.start"
 	],
