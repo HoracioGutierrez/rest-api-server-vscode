@@ -1,5 +1,7 @@
 # REST API Server Extension!
 
+[![Travis](https://travis-ci.com/HoracioGutierrez/rest-api-server-vscode.svg?branch=master)](https://travis-ci.com/github/HoracioGutierrez/rest-api-server-vscode)
+
 Inspired by the [json-server](https://github.com/typicode/json-server) package, with this extension you can use a JSON file and serve it as an REST API Server already configured!
 
 **NOTE!** *It's still in development, I want to add a lot of other features or at least give support to everything there's in the **json-server** package so it only provides the default routes and middlewares.*
