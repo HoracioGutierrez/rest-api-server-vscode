@@ -1,3 +1,3 @@
-# rest-api-server 
+# REST API Server Extension!
 
-This is the README for your extension "rest-api-server". After writing up a brief description, we recommend including the following sections.
+With this extension you can use a JSON file and serve it as an REST API already configured!

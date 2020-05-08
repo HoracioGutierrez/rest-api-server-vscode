@@ -3,6 +3,10 @@
 	"displayName": "rest-api-server",
 	"description": "test of a server un vs code",
 	"publisher": "HoracioGutierrez",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HoracioGutierrez/rest-api-server-vscode"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.42.0"
