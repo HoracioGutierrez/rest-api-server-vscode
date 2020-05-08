@@ -2,6 +2,7 @@
 	"name": "rest-api-server",
 	"displayName": "rest-api-server",
 	"description": "test of a server un vs code",
+	"publisher": "HoracioGutierrez",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.42.0"
