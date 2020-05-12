@@ -17,7 +17,7 @@ class JSONServer {
     }
 
     setMiddle(){
-        this.middle = jsonserver.defaults()
+        this.middle = jsonserver.defaults({noCors:true})
     }
     
     config(){
